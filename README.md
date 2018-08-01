@@ -49,6 +49,8 @@ Issue tracker
 
 Issues and bug reports should be posted to the [GitHub Kurento bugtracker]
 
+Add something new.
+
 Licensing and distribution
 --------------------------
 
