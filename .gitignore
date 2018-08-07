@@ -10,3 +10,4 @@ target/
 *backup
 *Backup
 *bower_components/
+node_modules/
