@@ -10,7 +10,7 @@ Copyright © 2013-2016 [Kurento]. Licensed under [Apache 2.0 License].
 Kurento-tutorial
 ================
 
-Examples on usage of the Kurento Java Client.
+Examples on usage of the Kurento Java Client, demos.
 
 What is Kurento
 ---------------
